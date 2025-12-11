@@ -1,5 +1,4 @@
- Overview
-
+** Overview**
 This is a simple Java Console Calculator designed for beginners.
 It performs basic arithmetic operations and also supports:
 
@@ -21,7 +20,7 @@ Calculation History (stored using ArrayList from Java Collections)
 
 The project helps you understand OOP concepts, Collections, switch-case, loops, and user input handling.
 
-📁 Project Structure
+**📁 Project Structure**
 CalculatorProject/
  ├── Calculator.java
  ├── CalculationHistory.java
@@ -40,8 +39,8 @@ Uses ArrayList<String> to store and display past calculations.
 Handles user input, menu display, and connects everything together.
 
 
-🧮 Features
-| Feature        | Description                           |
+**🧮 Features
+**| Feature        | Description                           |
 | -------------- | ------------------------------------- |
 | Addition       | a + b                                 |
 | Subtraction    | a − b                                 |
@@ -54,8 +53,8 @@ Handles user input, menu display, and connects everything together.
 | Clear History  | Deletes all stored operations         |
 
 
-📚 Concepts Learned
-
+**📚 Concepts Learned
+**
 ✔ Java OOP
 ✔ Classes & Objects
 ✔ Methods
