@@ -13,11 +13,10 @@ public class CalculationHistory {
             return;
         }
 
-        System.out.println("\n=== Calculation History ===");
+        System.out.println("\n Calculation History ");
         for (String h : history) {
             System.out.println(h);
         }
-        System.out.println("===========================\n");
     }
 
     public void clear() {
