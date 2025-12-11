@@ -10,7 +10,7 @@ public class Main {
 
         while (true) {
 
-            System.out.println("\n=== SIMPLE CALCULATOR ===");
+            System.out.println("\n SIMPLE CALCULATOR ");
             System.out.println("1. Addition");
             System.out.println("2. Subtraction");
             System.out.println("3. Multiplication");
@@ -26,7 +26,7 @@ public class Main {
             int choice = sc.nextInt();
 
             if (choice == 10) {
-                System.out.println("Thank you! Exiting...");
+                System.out.println("Thank you! Exiting... Have a NICE Day!");
                 break;
             }
 
@@ -63,9 +63,9 @@ public class Main {
                     break;
 
                 case 4:
-                    System.out.print("Enter first number: ");
+                    System.out.print("Enter numerator: ");
                     a = sc.nextDouble();
-                    System.out.print("Enter second number: ");
+                    System.out.print("Enter denominator: ");
                     b = sc.nextDouble();
                     result = calc.divide(a, b);
                     record = a + " / " + b + " = " + result;
