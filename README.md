@@ -2,7 +2,7 @@
 
 ## Overview
 
-This is a beginner-friendly Java Console Calculator that performs basic arithmetic operations and also supports square, cube, and power functions. It stores all calculations in a history list using ArrayList from Java Collections.
+This is a Java Console Calculator that performs basic arithmetic operations and also supports square, cube, and power functions. It stores all calculations in a history list using ArrayList from Java Collections.
 
 ## Features
 
